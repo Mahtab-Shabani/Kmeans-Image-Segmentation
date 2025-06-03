@@ -1,6 +1,6 @@
 # Kmeans-Image-Segmentation
 
-An unsupervised technique called K-means clustering is used to separate the area of interest from the background. Based on the K-centroids, it clusters or divides the input data into K-clusters or portions. This repro is a simple code for image segmentation by Kmeans.
+An unsupervised technique called K-means clustering is used to separate the area of interest from the background. Based on the K-centroids, the clusters divide the input data into K-clusters or portions. This repository contains a simple code for image segmentation using K-means.
 
 ![image](https://user-images.githubusercontent.com/21992001/188752237-012d7d3b-ee7e-468f-9180-a92c2f9707bf.png)
 
